@@ -1,0 +1,99 @@
+.message__container {
+    height: 740px;
+    width: 360px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-self: center;
+}
+
+.message__header {
+    height: 60px;
+    width: 360px;
+    background-color: #0080F6;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.message__body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 90vh;
+}
+
+.message__footer {
+    display: flex;
+    flex-direction: row;
+    min-height: 57px;
+    width: 360px;
+}
+
+.footer__input {
+    border-style: none;
+    height: 57px;
+    width: 300px;
+    outline: none;
+    padding-left: 10px;
+    color: #0080F6;
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.header__logo {
+    margin-left: 10px;
+}
+.sendbutton {
+    margin-left: 20px;
+    margin-top: 15px;
+
+}
+
+.header__text1 {
+    font-family: samsungsharpsans;
+    font-size: 14px;
+    font-weight: 700;
+    color: #FCFCFC;
+    margin-bottom: -8px;
+}
+
+.header__text2 {
+    font-family: samsungsharpsans;
+    font-size: 7px;
+    font-weight: 500;
+    color: #FCFCFC;
+}
+
+.header__names {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.header__image {
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+.header__person{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+
+.personimage {
+    border-radius: 25px;
+    
+}

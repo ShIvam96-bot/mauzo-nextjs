@@ -1,0 +1,94 @@
+.text31{
+    font-family: samsungsharpsans;
+    font-weight: 700;
+    font-size: 15px;
+    margin-top: 25px;
+}
+.text32{
+    font-family: samsungsharpsans;
+    font-weight: 500;
+    font-size: 10px;
+    margin-right: 40px;
+    margin-left: 50px;
+}
+.text34{
+    font-family: samsungsharpsans;
+    font-weight: 500;
+    font-size: 10px;
+    margin-left: 15px;
+}
+.text33{
+    font-family: samsungsharpsans;
+    font-family: 700;
+    font-size: 10px;
+    
+}
+.page3__button{
+    height: 44px;
+    width: 320px;
+    background-color: #0080F6;
+    color: #fcfcfc;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 20px;
+    margin-top: 80px;
+    margin-left: 20px;
+    margin-bottom: 150px;
+    font-family: samsungsharpsans;
+    font-size: 12px;
+    font-weight: 700;
+}
+.page3__container{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    width: 360px;
+    height: 740px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+.page3__body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 2;
+    margin-top: 150px;
+}
+.page3{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+}
+.textlink{
+    font-family: samsungsharpsans;
+    font-weight: 700;
+    font-size: 10px;
+    color: #0080F6;
+    margin-left: 100px;
+}
+.pageDirection {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.page2__address {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}

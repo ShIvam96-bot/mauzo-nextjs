@@ -1,0 +1,142 @@
+
+  
+    .map-h2 {
+        font-size: 1.3rem;
+        font-weight: 400;
+      }
+    
+      .pin {
+          display: flex;
+          flex-direction: row;
+          align-items: center;
+          justify-content: space-between;
+        width: 100px;
+        height: 60px;
+      }
+    .pintext{
+       font-family: samsungsharpsans;
+        font-size: 10px;
+    }
+      .pinicon {
+        font-size: 12vw;
+        color: #FF0000;
+        width: 40px;
+        height: 30px;
+      }
+    .map__header {
+        height:127px;
+        width: 360px;
+        background-color: #0080F6;
+    }
+    .map__body {
+        width: 360px;
+        height: 65vh;
+    }
+    .map {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: flex-start;
+        align-self: center;
+    }
+    .map__footer {
+        width: 360px;
+        height: 117px;
+        background-color: #FFFFFF;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .map__container {
+      display: flex;
+      flex-direction: column;
+      align-self: center;
+      height: 740px;
+    }
+    .input1 {
+        height:28px;
+        width: 243px;
+        border-color: #FFFFFF;
+        background-color: #0080F6;
+        color: #FFFFFF;
+        margin-top: 7px;
+        padding-left: 10px;
+        border-width: 0.5px;
+       
+    }
+    .input2 {
+      height:28px;
+      width: 243px;
+      border-color: #FFFFFF;
+      background-color: #0080F6;
+      color: #FFFFFF;
+     
+      padding-left: 10px;
+      border-width: 0.5px;
+  }
+  .distance {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+  }
+  .map__text1 {
+      font-family: Roboto;
+      font-weight: 400;
+      font-size: 14px;
+  }
+  .map__text2 {
+      font-family: Roboto;
+      font-weight: 400;
+      font-size: 12px;
+  }
+  .map__start {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: flex-start;
+  }
+  .map__menu {
+      margin-right: 10px;
+      margin-top: 12px;
+  }
+  .map__navigation {
+      margin-left: 140px;
+  }
+  .map__text3 {
+      font-family: Roboto;
+      font-weight: 400;
+      font-size: 12px;
+      margin-left: 10px;
+  }
+  .map__logo {
+      margin-right: 10px;
+  }
+  .map__icons {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 15px;
+      padding-left: 15px;
+      padding-right: 15px;
+  }
+  .map__input2 {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: flex-start;
+      margin-top: 12px;
+      margin-left: 44px;
+  }
+  .img{
+      height: 15px;
+      width: 15px;
+      margin-right: 10px;
+  }
+  .map__input1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 38px;
+}
+  

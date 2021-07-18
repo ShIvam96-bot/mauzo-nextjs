@@ -1,0 +1,139 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 360px;
+  height: 740px;
+  background-color: #fff;
+  align-self: center;
+}
+
+.header {
+  display: flex;
+  background-color: #f2f9ff;
+  width: 360px;
+  height: 60px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+  margin-left: 60px;
+}
+
+.text1 {
+  font-family: samsungsharpsans;
+  font-size: 13px;
+  font-weight: 700;
+  padding-left: 20px;
+}
+
+.text2 {
+  font-family: samsungsharpsans;
+  font-size: 10px;
+  font-weight: 500;
+  padding-left: 20px;
+}
+
+.text21 {
+  font-family: samsungsharpsans;
+  font-size: 10px;
+  font-weight: 500;
+  padding-left: 20px;
+  color: #FF0000;
+}
+
+.text3 {
+  font-family: samsungsharpsans;
+  font-size: 10px;
+  font-weight: 700;
+  padding-left: 20px;
+}
+
+.price {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+}
+
+.image {
+  border-radius: 15px;
+  margin-left: 63px;
+  margin-bottom: 50px;
+  height:193px;
+   width:232px;
+}
+
+.points {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background-color: #f2f9ff;
+  width: 320px;
+  height: 39px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.button {
+  width: 320px;
+  height: 44px;
+  background-color: #0080F6;
+  color: #fcfcfc;
+  border-radius: 10px;
+  border-width: 0px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+  font-family: samsungsharpsans;
+  font-size: 12px;
+  font-weight: 700;
+}
+.page1{
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+}
+.chaticon{
+  margin-left: 250px;
+}
+.page1__boxes {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+.text22 {
+  font-family: samsungsharpsans;
+  font-size: 10px;
+  font-weight: 500;
+  padding-left: 20px;
+  color: #009E36;
+}
+.text23 {
+  font-family: samsungsharpsans;
+  font-size: 10px;
+  font-weight: 700;
+  padding-left: 20px;
+  color: #009E36;
+}
+.text24 {
+  font-family: samsungsharpsans;
+  font-size: 10px;
+  font-weight: 700;
+  padding-left: 20px;
+  color: #0080F6;
+}

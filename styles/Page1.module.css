@@ -1,0 +1,153 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    background-color: #FFFFFF;
+    width: 360px;
+    height: 740px;
+}
+.header{
+    background-color: #f2f9ff;
+    height:60px;
+    width: 360px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: 20px;
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: 20px;
+}
+.priceBox1{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.priceBox2{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding-left: 20px;
+}
+.button{
+    height: 44px;
+    width: 320px;
+    background-color: #0080F6;
+    color: #fcfcfc;
+    border-radius: 10px;
+    border-width: 0px;
+    margin-right: 20px;
+    margin-top: 28px;
+    margin-bottom: 15px;
+    font-family: samsungsharpsans;
+    font-size: 12px;
+    font-weight: 700;
+}
+.inputBox{
+    width: 320px;
+    height:44px;
+    border-radius: 10px;
+    border-width: 1px;
+    margin-right: 20px;
+    background-color: #f2f9ff;
+    border-color: #99CCFB;
+    color: #0080F6;
+    padding-left: 10px;
+    font-family: samsungsharpsans;
+    outline: #f2f9ff;
+}
+.text1{
+    font-family: samsungsharpsans;
+    font-size: 13px;
+    font-weight: 700;
+}
+.text2{
+    font-family: samsungsharpsans;
+    font-size: 10px;
+    font-weight: 500;
+}
+.text3{
+    font-family: samsungsharpsans;
+    font-size: 10px;
+    font-weight: 700;
+}
+.inputContain{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.headerContent{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.logo{
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.page2{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.text4{
+    font-family: samsungsharpsans;
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 200px;
+}
+.text41{
+    font-family: samsungsharpsans;
+    font-size: 10px;
+    font-weight: 500;
+    margin-left: 230px;
+}
+.text5{
+    font-family: samsungsharpsans;
+    font-size: 10px;
+    font-weight: 700;
+    margin-left: 240px;
+}
+.logo2{
+    margin-right: 10px;
+}
+.order{
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-bottom: 140px;
+    align-self: flex-start;
+}
+.page2__map{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.maplogo {
+    margin-right: 15px;
+}
